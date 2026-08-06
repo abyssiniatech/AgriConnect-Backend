@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgriConnect.Api/AgriConnect.Api.csproj" />
+    <Project Path="src/AgriConnect.Application/AgriConnect.Application.csproj" />
+    <Project Path="src/AgriConnect.Domain/AgriConnect.Domain.csproj" />
+    <Project Path="src/AgriConnect.Infrastructure/AgriConnect.Infrastructure.csproj" />
+    <Project Path="src/AgriConnect.Persistence/AgriConnect.Persistence.csproj" />
+  </Folder>
+</Solution>

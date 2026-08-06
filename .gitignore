@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Development settings
+appsettings.Development.json

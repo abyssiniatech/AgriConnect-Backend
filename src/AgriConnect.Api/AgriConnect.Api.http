@@ -1,0 +1,6 @@
+@AgriConnect.Api_HostAddress = http://localhost:5190
+
+GET {{AgriConnect.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
